@@ -1,11 +1,11 @@
 import java.util.Random;
 import java.util.Scanner;
 
-class Game {
-    private int number;
-    private int inputNumber;
-    private int noOfGuesses = 0;
-    private int range;
+public class Game {
+     int number;
+     int inputNumber;
+     int noOfGuesses = 0;
+     int range;
 
     public int getNoOfGuesses() {
         return noOfGuesses;
@@ -36,7 +36,7 @@ class Game {
                 }
             } else {
                 System.out.println("Invalid input! Please enter a number.");
-                sc.next(); // Clear the invalid input
+                sc.next();
             }
         }
     }
@@ -55,7 +55,7 @@ class Game {
     }
 }
 
-public class Optimized_numberGuessing {
+public class Number_Guessing_game {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean playAgain = true;
