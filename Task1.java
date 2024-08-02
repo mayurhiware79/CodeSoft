@@ -1,7 +1,8 @@
 import java.util.Random;
 import java.util.Scanner;
 
-public class Game {
+//Number_Guessing_game
+class Game {
      int number;
      int inputNumber;
      int noOfGuesses = 0;
@@ -55,7 +56,7 @@ public class Game {
     }
 }
 
-public class Number_Guessing_game {
+public class Task1 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean playAgain = true;
