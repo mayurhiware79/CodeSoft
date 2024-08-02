@@ -22,7 +22,7 @@ public class StudentGradeCalculator {
         // Calculate average percentage
         double averagePercentage = (double) totalMarks / numberOfSubjects;
 
-        // Determine grade
+        // finding grade
         String grade;
         if (averagePercentage >= 90) {
             grade = "A+";
