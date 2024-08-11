@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
-public class ATM_machine_simple {
+//ATM_machine_simple
+public class Tast3 {
 
 
 // Step 4: Create a class to represent the user's bank account
