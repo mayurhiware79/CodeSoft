@@ -16,7 +16,8 @@ class Question {
     }
 }
 
-public class QuizApp {
+//QuizApp
+public class Task4 {
     private static int score = 0;
     private static int currentQuestionIndex = 0;
     private static List<Question> questions = new ArrayList<>();
