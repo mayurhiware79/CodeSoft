@@ -1,4 +1,4 @@
-*I've had an amazing experience during my CodSoft internship, where I worked on four Java projects. Each project challenged me to think critically and improve my coding skills.*
+**I've had an amazing experience during my CodSoft internship, where I worked on four Java projects. Each project challenged me to think critically and improve my coding skills.**
 
 Here's a quick overview:
 
